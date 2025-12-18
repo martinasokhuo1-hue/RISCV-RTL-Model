@@ -38,7 +38,7 @@ Hier ist die aus Vivado generierte Hardware-Struktur der CPU zu sehen. Man erken
 
 ### Simulations-Ergebnisse
 Die Testbench `TBE.vhd` verifiziert die korrekte Ausführung der Befehlssätze.
-![Simulation Waveform](imag_waveform/simulation_waveform.png)
+![Simulation Waveform](imag_waveform/Screenshot 2025-12-18 164609.png)
 
 ---
 **Kontakt:** [Martin Asokhuo] – [martinasokhuo1@gmail.com]
