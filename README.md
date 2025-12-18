@@ -33,7 +33,7 @@ Die Funktionalität wurde intensiv im **Vivado Simulator (XSim)** geprüft.
 ## 📈 Visualisierung & Ergebnisse
 
 ### RTL-Struktur (Schematic)
-Hier ist die aus Vivado generierte Hardware-Struktur der CPU zu sehen. Man erkennt deutlich die Trennung zwischen dem Datenpfad und der Control-Unit.
+Hier ist die aus Vivado generierte Hardware-Struktur der CPU zu sehen.
 ![RTL Schematic](image.png)
 
 ### Simulations-Ergebnisse
