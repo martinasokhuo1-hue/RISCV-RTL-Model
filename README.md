@@ -34,11 +34,11 @@ Die Funktionalität wurde intensiv im **Vivado Simulator (XSim)** geprüft.
 
 ### RTL-Struktur (Schematic)
 Hier ist die aus Vivado generierte Hardware-Struktur der CPU zu sehen. Man erkennt deutlich die Trennung zwischen dem Datenpfad und der Control-Unit.
-![RTL Schematic](imag structure/rtl_schematic.png)
+![RTL Schematic](image.png)
 
 ### Simulations-Ergebnisse
 Die Testbench `TBE.vhd` verifiziert die korrekte Ausführung der Befehlssätze.
-![Simulation Waveform](imag_waveform/Screenshot 2025-12-18 164609.png)
+![Simulation Waveform](Screenshot 2025-12-18 164609.png)
 
 ---
 **Kontakt:** [Martin Asokhuo] – [martinasokhuo1@gmail.com]
